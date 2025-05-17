@@ -4,3 +4,5 @@ Repository bukti absensi session #1 :
 - Edit page.tsx with Name & NIM
 - Setup Repository
 - Push to Repository
+
+![Overview](public/session1.png)

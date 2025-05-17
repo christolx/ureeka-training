@@ -4,3 +4,5 @@ Repository bukti absensi session #2 :
 - Utilizes app file routing & next-Link for navigation
 - Used subdirectories for storing project components
 - Installed & utilized ShadCN components.
+
+![Overview](public/overview.png)
